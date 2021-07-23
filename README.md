@@ -1,4 +1,5 @@
 AirBnB-Data-Exploration
+
 In this Project we have to deal with data from a well-known home rental application, named AirBnB. Specifically, we have collected data from the area of Athens for 3 months of 2019. The data is in csv format and we used Python to answer the following questions.
 
 
